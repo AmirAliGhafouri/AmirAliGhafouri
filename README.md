@@ -5,6 +5,8 @@
 
 <h3 align="center">🧰Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,php,laravel,mysql" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,bootstrap,php,laravel,mysql" />
+  </a>
 </p>
 
